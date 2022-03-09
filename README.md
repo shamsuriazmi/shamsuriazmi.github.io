@@ -1,1 +1,1 @@
-# shamsuriazmi.github.io
+# shamsuriazmi.netlify

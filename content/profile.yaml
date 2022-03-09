@@ -1,0 +1,34 @@
+- profile:
+  initials: SA
+  name: Shamsuri Azmi
+  profession: Anything Coding and Analysis
+  image: images/profile.jpg
+  location: Selangor, Malaysia
+  relocation: True
+  company: Logit Datum
+  for_hire: True
+  focus: Learning Gatsby and Data Analysis Project
+  focus_url: https://gatsbyjs.org
+  about: |
+    Entry level data analytics professional; recently completed the Data Analytics Professional Certificate. Excellent understanding and proficiency of platforms for effective data analyses, including SQL, Spreadsheet, Excel, Tableau and R.
+
+    Strong communication, organizational and analytical skills.
+  skills:
+    - Python
+    - HTML / CSS
+    - Machine Learning
+    - JavaScript
+    - Data Analysis
+  tools:
+    - Conda
+    - VSCode
+    - RStudio
+    - Git
+    - SQL
+    - Spreadsheet
+    - Tableau
+  budget:
+    currency: $
+    min: 5
+    max: 30
+    default: 10
